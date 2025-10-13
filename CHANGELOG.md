@@ -3,6 +3,21 @@
 > [!IMPORTANT]
 > For more details about the changes in each version, please refer to the [releases](https://github.com/cloudinary-labs/cloudinary-laravel/releases) page.
 
+# 3.0.2 / 2025-10-12
+
+## What's Changed
+
+- chore: add documentation by @joshmanders in https://github.com/cloudinary-community/cloudinary-laravel/pull/152
+- updated "colbyfayock" reference to "cloudinary" by @igmansvi in https://github.com/cloudinary-community/cloudinary-laravel/pull/158
+- fix: issues with component rendering correctly. by @joshmanders in https://github.com/cloudinary-community/cloudinary-laravel/pull/162
+- fix: support prefix by @joshmanders in https://github.com/cloudinary-community/cloudinary-laravel/pull/163
+
+## New Contributors
+
+- @igmansvi made their first contribution in https://github.com/cloudinary-community/cloudinary-laravel/pull/158
+
+**Full Changelog**: https://github.com/cloudinary-community/cloudinary-laravel/compare/3.0.1...3.0.2
+
 # 3.0.1 / 2025-04-28
 
 ## What's Changed
