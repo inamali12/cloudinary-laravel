@@ -3,6 +3,18 @@
 > [!IMPORTANT]
 > For more details about the changes in each version, please refer to the [releases](https://github.com/cloudinary-labs/cloudinary-laravel/releases) page.
 
+# 3.0.1 / 2025-04-28
+
+## What's Changed
+
+- Fix bug when Cloudinary storage adapter was not working correctly on Windows by @thecodeholic in https://github.com/cloudinary-community/cloudinary-laravel/pull/150
+
+## New Contributors
+
+- @thecodeholic made their first contribution in https://github.com/cloudinary-community/cloudinary-laravel/pull/150
+
+**Full Changelog**: https://github.com/cloudinary-community/cloudinary-laravel/compare/3.0.0...3.0.1
+
 # 3.0.0 / 2024-03-16
 
 ### Notable Changes
